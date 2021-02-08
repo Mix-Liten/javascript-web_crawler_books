@@ -1,0 +1,16 @@
+{
+  "name": "web_crawler_books",
+  "version": "1.0.0",
+  "description": "web crawler books",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mixliten",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
